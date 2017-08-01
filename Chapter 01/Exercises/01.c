@@ -1,7 +1,2 @@
-#include <stdio.h>
-
-int main(void)
-{
-	printf("hello, world\n");
-	return 0;
-}
+// Dependent on compiler, you may get a warning message or not.
+// main function has int return type but return statement is missing.
