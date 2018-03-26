@@ -17,4 +17,6 @@ int main(void)
     printf("Item\t\tUnit\t\tPurchase\n\t\tPrice\t\tDate\n");
     printf("%-d\t\t$%7.2f\t\t%-.2d/%-.2d/%-.4d", item_number,
            unit_price, purchase_month, purchase_day, purchase_year);
+    
+    return 0;
 }
