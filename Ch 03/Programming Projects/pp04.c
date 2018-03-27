@@ -1,4 +1,4 @@
-// displays the telephone number entered in the different format
+// displays the entered telephone number in the different format
 
 #include <stdio.h>
 
