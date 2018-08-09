@@ -11,7 +11,7 @@ int main(void)
     scanf("%f", &loan_amount);
     printf("Enter interest rate: ");
     scanf("%f", &interest_rate);
-    printf("Enter m+-onthly payment: ");
+    printf("Enter monthly payment: ");
     scanf("%f", &monthly_payment);
 
     // find monthly interest rate
